@@ -1,0 +1,13 @@
+{
+    "contacts": [
+        {
+            "name": "Emergency",
+            "number": "911"
+        },
+        {
+            "name": "Test Contact",
+            "number": "555-TEST"
+        }
+    ],
+    "call_history": []
+}
